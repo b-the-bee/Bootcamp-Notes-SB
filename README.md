@@ -2,7 +2,7 @@
 
 This is a **readme** for my notes, you will probably **read** more than just **me**.
 
-These notes were created in and for the note taking software [Obsidian][https://obsidian.md/], if you wish to read them easier I highly recommend using it.
+These notes were created in and for the note taking software [Obsidian][https://obsidian.md/] (where this readme is formatted appropriately), if you wish to read them easier I highly recommend using it.
 
 The overview of the whole course can be seen here [[Course Master Doc]].
 
