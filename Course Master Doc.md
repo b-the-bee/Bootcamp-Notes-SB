@@ -51,3 +51,5 @@ cssclass:
 ![[Day 22 Overview]]
 
 ![[Day 23 Overview]]
+
+![[Day 24 Overview]]
