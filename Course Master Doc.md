@@ -57,3 +57,5 @@ cssclass:
 ![[Day 25 Overview]]
 
 ![[Day 26 Overview]]
+
+![[Day 27 Overview]]
