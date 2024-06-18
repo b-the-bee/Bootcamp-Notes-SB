@@ -58,4 +58,8 @@ cssclass:
 
 ![[Day 26 Overview]]
 
-![[Day 27 Overview]]
+![[DfE-Generation Data Engineering Skills bootcamp/Week 6/Day 27/Day 27 Overview]]
+
+![[Day 28 Overview]]
+
+![[Day 29 Overview]]
