@@ -1,4 +1,4 @@
-#data-science 
+#data-science #data-engineering 
 
 # Scrum simulation with minetest
 

@@ -1,5 +1,5 @@
-#data-science 
-
+#data-science #data-engineering 
+ 
 ## Staff Support: Your instructors
 The group project sees you transition form being an individual learner to being a team, simulating a real working environment.
 
